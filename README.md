@@ -26,8 +26,8 @@ Credit: This script comes from (Sanix-Darker/clone_sub.sh)[https://gist.github.c
 
 ## Sections
 
-### Better Shell
+### [Better Shell](better-shell/)
 
-### Win-as-Mac
+### [Win-as-Mac](win-as-mac/README.md)
 
-### Obsidian
+### [Obsidian]()
