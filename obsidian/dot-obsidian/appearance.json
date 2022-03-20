@@ -1,0 +1,8 @@
+{
+    "baseFontSize": 20,
+    "theme": "moonstone",
+    "cssTheme": "Big Sur Aesthetic",
+    "enabledCssSnippets": [
+        "no-strike-checkbox"
+    ]
+}
