@@ -9,7 +9,7 @@
 #### Web Clipper
 
 ```ad-note
-Credit: This script comes from (kepano/obsidian-web-clipper.js)[https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3].
+Credit: This script comes from [kepano/obsidian-web-clipper.js](https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3).
 Many thanks to @kepano for this script, and we shall follow this thread for updates!
 ```
 

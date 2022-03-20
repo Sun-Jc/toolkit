@@ -15,7 +15,7 @@ wget https://raw.githubusercontent.com/Sun-Jc/toolkit/main/sparse-checkout.sh
 ```
 
 ```ad-note
-Credit: This script comes from (Sanix-Darker/clone_sub.sh)[https://gist.github.com/Sanix-Darker/a15f3d9a0eed10236ff25c87b5515732].
+Credit: This script comes from [Sanix-Darker/clone_sub.sh](https://gist.github.com/Sanix-Darker/a15f3d9a0eed10236ff25c87b5515732).
 ```
 
 2. Run the script with arguments
