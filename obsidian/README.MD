@@ -13,7 +13,7 @@ Credit: This script comes from (kepano/obsidian-web-clipper.js)[https://gist.git
 Many thanks to @kepano for this script, and we shall follow this thread for updates!
 ```
 
-1. Per [web-clipper.js](web-clipper.js] Change `VAULT_NAME` to your target vault, the js snippet should be
+1. Per [web-clipper.js](web-clipper.js), change `VAULT_NAME` to your target vault, the js snippet should be
 
 ```javascript
     /* Optional vault name */
