@@ -31,3 +31,15 @@ Credit: This script comes from [Sanix-Darker/clone_sub.sh](https://gist.github.c
 ### [Win-as-Mac](win-as-mac/README.md)
 
 ### [Obsidian]()
+
+### MISC
+
+#### [小鹤双拼 xn he ul pb](https://www.flypy.com/)
+
+#### [VSCode](https://code.visualstudio.com/)
+
+#### [Typora](https://typora.io/)
+
+#### [utools](https://u.tools/)
+
+#### [lux](https://github.com/iawia002/lux)
